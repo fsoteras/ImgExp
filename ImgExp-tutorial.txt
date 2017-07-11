@@ -1,0 +1,16 @@
+ImgExp tutorial
+
+Abstract:   the idea is to describe design and implementation of a  .net cmd app
+            done using  design patterns and why is this a good idea.
+
+
+            The main idea of this program is to implement a simple command line
+            app that allow to resize pictures by passing a path and a desired new
+            size , also it will expose a command to simply double the size of a 
+            picture also we should be able to ask for doing a copy or do resizing
+            over the target picture.
+
+            This app will be implemented using design pattern that ensures easy of
+            extension so if latter we desire to extend this API it will be easy and
+            well structured.
+
