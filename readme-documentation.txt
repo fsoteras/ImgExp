@@ -14,5 +14,7 @@ keying ImgExpnd without parameters will expose help data.
 
 
 ------------------------------------------
-Sample test data
--DoubleSize C:\Users\fsoteras_admin\Pictures\pampa.png
+Sample test datahttps://github.com/fsoteras/ImgExpnd.git
+-DoubleSize C:\Users\fsoteras_admin\Pictures\pampa.png\
+
+
